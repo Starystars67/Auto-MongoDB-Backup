@@ -1,0 +1,24 @@
+{
+  "name": "auto-mongodb-backup",
+  "version": "1.0.0",
+  "description": "Automatic MongoDB Backup. Just add creds &amp; cron / task scheduler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starystars67/MongoDB-Backup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Starystars67/MongoDB-Backup/issues"
+  },
+  "homepage": "https://github.com/Starystars67/MongoDB-Backup#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "node-notifier": "^9.0.1"
+  }
+}
